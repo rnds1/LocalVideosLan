@@ -7,7 +7,8 @@
 <body>
     <?php
     $path = "./";
-    $ListIgnoreFiles = array('.', '..','Player','js', 'script.js', 'index.php', 'node_modules', 'package-lock.json', 'package.json', 'seta-esquerda.png', 'seta.png', 'style.css');
+    $ListIgnoreFiles = array('.','.git','LICENSE','README.md','.gitattributes','.gitignore', '..','Player','js', 'script.js', 'index.php', 'node_modules', 'package-lock.json', 'package.json', 'seta-esquerda.png', 'seta.png', 'style.css');
+    
 
     class Anime {
         public $nome;
