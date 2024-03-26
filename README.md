@@ -12,7 +12,7 @@ Para mudar de video basta selecionar um botão da lista abaixo.
  - Crie uma pasta  dentro da pasta `C:\wamp64\www` &
  -  Clone este repositorio dentro da pasta
  -  [Como clonar Repositorio](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository)
- -  Tenha Siga a estrutura abaixo dentro da pasta e inicie seu servidor
+ -  Siga a estrutura abaixo dentro da pasta e inicie seu servidor
   
 
 # Estrutura de Pastas e Arquivos
