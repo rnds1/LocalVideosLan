@@ -8,7 +8,7 @@ Para mudar de video basta selecionar um botão da lista abaixo.
 
 # Setup
  - Instalar Wamp server  `Apache` com suporte a PHP. 
- -  Clone este repositorio dentro da pasta `/var/www/html`no linux | `\wamp\www`  or `xamp\htdocs` no linux|  
+ -  Clone este repositorio dentro da pasta `/var/www/html`no Linux | `\wamp\www`  or `xamp\htdocs` no Windows|  
  -  [Como clonar Repositorio](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository)
  -  Siga a estrutura abaixo dentro da pasta e inicie seu servidor apache.
   
@@ -17,13 +17,11 @@ Para mudar de video basta selecionar um botão da lista abaixo.
 
 - index.php
 - style.css
-
-
-
+- 
 - Aula1/
   - episodio1.mp4
   - episodio2.mp4
-
+  - 
 - Aula2/
   - episodio1.mp4
   - episodio2.mp4
